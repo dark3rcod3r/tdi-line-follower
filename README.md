@@ -15,8 +15,6 @@ int switch1 = 11;
 
 int switchstate = 0;
 
-//hellooooooo
-
 void setup() {
   pinMode(enaRight, OUTPUT);
   pinMode(in1, OUTPUT);
